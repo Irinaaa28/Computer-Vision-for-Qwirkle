@@ -15,5 +15,6 @@
 
 
 
-* Run in terminal: python -u "c:/CAVA/solution.py"
-* The solution files will be generated in C:/CAVA/333\_Coman\_IrinaElena/
+* Run "solution.py"
+* The solution files will be generated in 333_Coman_IrinaElena directory
+
