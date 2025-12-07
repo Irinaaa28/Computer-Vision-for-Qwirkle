@@ -18,3 +18,10 @@
 * Run "solution.py"
 * The solution files will be generated in 333_Coman_IrinaElena directory
 
+
+#### 3\. About
+
+
+All the details about this project are found in Documentaion EN
+
+
